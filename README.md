@@ -8,5 +8,22 @@
 // Functional component > normal js function > return JSX
 // Putting one component inside another is component composition
 
+EP-03
+/**
+ *
+ * Header
+ * - Logo
+ * - Nav items
+ * Body
+ * - Search
+ * - Restro container
+ *  - Restro card
+ * - Footer
+ *  - Copyright
+ *  - Links
+ *  - Address
+ *  - Contact
+ */
+
 Ep-04
 ![image](https://github.com/surajbande98/Namaste-react/assets/64318247/abb45b07-b771-45c1-937f-122fa7a6a938)
