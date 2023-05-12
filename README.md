@@ -27,3 +27,12 @@ EP-03
 
 Ep-04
 ![image](https://github.com/surajbande98/Namaste-react/assets/64318247/abb45b07-b771-45c1-937f-122fa7a6a938)
+
+EP-05
+* Hooks are JS utility functions
+  - useState
+  - useEffect
+* Reconsilation algo(React fibre)
+ - Virtual DOM - representation of actual DOM.
+ - Diff algo -> efficient update of the DOM by comparing old and new vdom(objects).
+ - DOM updates and DOM re-rendering happens everytime when state variable change.
